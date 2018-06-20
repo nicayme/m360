@@ -191,5 +191,38 @@ SMS campaigns to improve customer relationships and increase profits of your bus
 </div>
 
 
+<!--- Three Column Section -->
+<div class="container-fluid padding " >
+	<div class="row text-center padding">
+		<div class="col-12">
+			<div class="my-space"></div>
+			<h2 class="my-4" >Blogs</h2>
+			<hr class="my-line">
+			<div class="my-space">Fresh news about Mobile360 and tech world!</div> 
+		</div>
+
+		<div class="col-xs-12 col-sm-6 col-md-6 ">
+			
+			<img src="img/blog-1.jpg" class="img-responsive blog-img">
+			<h5 class="my-4 blog-text">Standing out in a crowded market</h5>
+			
+			
+		</div>
+		<div class="col-xs-12 col-sm-6 col-md-6">
+			<img src="img/blog-2.jpg" class="img-responsive blog-img">
+			<h5 class="my-4 blog-text">Text me back: a quick guide to better SMS marketing</h5>
+
+		</div>
+
+
+
+		
+
+
+	</div>
+	<div class="my-space"></div>
+</div>
+
+
 </body>
 </html>

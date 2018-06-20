@@ -121,3 +121,22 @@ a.dropdown-item {
   margin: 0 auto;
   padding-top: 2rem;
 }
+
+/* BLOG SECTION */
+
+img.blog-img {
+	width:90%;
+    transition: transform .2s; /* Animation */
+    margin: 0 auto;
+}
+img.blog-img:hover {
+    transform: scale(1.05); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
+.blog-text {
+	color:#FFF;
+	position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-shadow: 2px 2px #000;
+}
